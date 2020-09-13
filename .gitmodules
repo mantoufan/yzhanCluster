@@ -1,0 +1,3 @@
+[submodule "all/m/mtf/mtfPicViewer"]
+	path = all/m/mtf/mtfPicViewer
+	url = git@github.com:mantoufan/mtfPicViewer.git
