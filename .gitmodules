@@ -1,6 +1,0 @@
-[submodule "all/m/mtf/mtfPicViewer"]
-	path = all/m/mtf/mtfPicViewer
-	url = git@github.com:mantoufan/mtfPicViewer.git
-[submodule "all/m/mtf/mtfPicListbox"]
-	path = all/m/mtf/mtfPicListbox
-	url = git@github.com:mantoufan/mtfPicListbox.git
