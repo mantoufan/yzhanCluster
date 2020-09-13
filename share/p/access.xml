@@ -1,0 +1,28 @@
+<config>
+	<request action='allow' >
+		<table name='!anticc'>
+		</table>
+		<table name='BEGIN'>
+		</table>
+	</request>
+	<response action='allow' >
+		<table name='!cache_control'>
+			<chain  action='continue' >
+				<acl_url ><![CDATA[http://b.juw8.com/.*]]></acl_url>
+				<mark_cache_control   max_age='3600'></mark_cache_control>
+			</chain>
+			<chain  action='continue' >
+				<acl_header header='content-Type' regex='1'><![CDATA[(.*?)[javascript|css|html]]]></acl_header>
+				<mark_cache_control   max_age='3600'></mark_cache_control>
+			</chain>
+		</table>
+		<table name='BEGIN'>
+			<chain  action='continue'  name='gzip'>
+				<acl_header header='Content-Type' regex='1'><![CDATA[(.*?)[javascript|css|html]]]></acl_header>
+				<mark_response_flag   flagvalue='gzip,'></mark_response_flag>
+			</chain>
+			<chain  action='table:!cache_control'  name='!cache_control'>
+			</chain>
+		</table>
+	</response>
+</config>
