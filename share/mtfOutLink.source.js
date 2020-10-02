@@ -1,6 +1,6 @@
 var mtfOutLink={
 	option:{
-		"mtfp2p":"https://p.juw8.com",
+		"mtfp2p":"https://p.yot.pw",
 		"mtfcdn":"https://cdn.mantoufan.com",
 		"color":"#fb4a6f"
 	},

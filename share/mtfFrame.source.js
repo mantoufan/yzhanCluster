@@ -12,7 +12,7 @@ var mtfFrame=(function (){
 	};
 	var option={
 		"refresh":"松开刷新 Loose to Refresh",
-		"mtfp2p":"https://p.juw8.com",
+		"mtfp2p":"https://p.yot.pw",
 		"mtfp2psso":"https://p.24zhifu.store",
 		"mtf":"https://mtf.yzhan.nl",
 		"openWin":"http://cdn.dm126.com/share/mtfOpenWin.html?v=1.004",
@@ -20,8 +20,8 @@ var mtfFrame=(function (){
 			"菜单<sup></sup>":"",
 			"DM126":"http://app.yzhan.in",
 			"导航":"http://hao.yzhan.nl",
-			"动态<sup></sup>":"https://p.juw8.com",
-			"我<sup></sup>":"https://p.juw8.com/?mtfa=me"
+			"动态<sup></sup>":"https://p.yot.pw",
+			"我<sup></sup>":"https://p.yot.pw/?mtfa=me"
 		},
 		"color":"#fb4a6f",
 		"cdn":"//cdn.dm126.com/share",
