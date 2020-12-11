@@ -4,3 +4,6 @@
 [submodule "all/m/mtf/mtfPicListbox"]
 	path = all/m/mtf/mtfPicListbox
 	url = git@github.com:mantoufan/mtfPicListbox.git
+[submodule "all/m/mtf/mtfSTGMaker"]
+	path = all/m/mtf/mtfSTGMaker
+	url = git@github.com:mantoufan/mtfSTGMaker.git
