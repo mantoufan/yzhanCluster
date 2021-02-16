@@ -13,7 +13,7 @@ var mtfFrame=(function (){
 	var option={
 		"refresh":"松开刷新 Loose to Refresh",
 		"mtfp2p":"https://p.yot.pw",
-		"mtfp2psso":"https://p.24zhifu.store",
+		"mtfp2psso":"https://p.u2u.ren",
 		"mtf":"https://mtf.yzhan.nl",
 		"openWin":"http://cdn.dm126.com/share/mtfOpenWin.html?v=1.004",
 		"menu":{
