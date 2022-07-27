@@ -2646,7 +2646,7 @@ function initDropdowns() {
 }
 $('body').append($('<input type="file" id="up" name="up" style="position:fixed;left:-9999px;" accept="image/*" >'));
 $('#up').change(function(){
-	$(this).simpleUpload(domain+'plugin/upload/', {
+	$(this).simpleUpload(domain+'plugin/Upload/', {
 		maxFileSize: 2000000,
 		success: function(j){
 			if(j){
