@@ -14,18 +14,18 @@ var mtfFrame=(function (){
 		"refresh":"松开刷新 Loose to Refresh",
 		"mtfp2p":"https://p.yot.pw",
 		"mtfp2psso":"https://p.u2u.ren",
-		"mtf":"https://mtf.yzhan.nl",
+		"mtf":"https://mtf.yzhan.cyou",
 		"openWin":"http://cdn.dm126.com/share/mtfOpenWin.html?v=1.004",
 		"menu":{
 			"菜单<sup></sup>":"",
-			"DM126":"http://app.yzhan.in",
-			"导航":"http://hao.yzhan.nl",
+			"DM126":"http://app.yzhan.cyou",
+			"导航":"http://hao.yzhan.cyou",
 			"动态<sup></sup>":"https://p.yot.pw",
 			"我<sup></sup>":"https://p.yot.pw/?mtfa=me"
 		},
 		"color":"#fb4a6f",
 		"cdn":"//cdn.dm126.com/share",
-		"web":"//app.yzhan.in"
+		"web":"//app.yzhan.cyou"
 	};
 	var set=function(o){
 		for(var i in o){

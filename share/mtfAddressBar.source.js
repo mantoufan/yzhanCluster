@@ -54,7 +54,7 @@ var mtfAddressBar=(function (){
 			mtfFrame.openWin(U.p+(u?(u.substr(0,4)==='http'?'//jx.618g.com/?url='+encodeURIComponent(u):'//www.laodouban.com/s?c='+encodeURIComponent(u)):'//www.laodouban.com'),'',1);
 		},
 		fav:function(u){
-			mtfFrame.openWin('//hao.yzhan.nl/v/f/#mtfUrl=' + encodeURIComponent(u),'',1);
+			mtfFrame.openWin('//hao.yzhan.cyou/v/f/#mtfUrl=' + encodeURIComponent(u),'',1);
 		},
 		cnzz:function(h){
 			if('undefined' !== typeof _czc){
