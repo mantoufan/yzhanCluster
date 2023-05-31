@@ -49,7 +49,7 @@ Y站CDN，面向第三方的静态资源存储服务。
             - 2408:871a:1801:7:1df:862a:5c57:2d05
 
 ## Ping延迟值
-![](https://pic.downk.cc/item/5f5dca05160a154a6788ca6e.png)
+![cdn 多地节点.png](https://s2.loli.net/2023/05/31/EurxFXQeTbI81sN.png)
 ## 自动CSS/JS压缩
 开发者可直接上传源文件（Source Code）。
 ### 格式压缩

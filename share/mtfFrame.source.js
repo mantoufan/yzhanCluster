@@ -12,16 +12,16 @@ var mtfFrame=(function (){
 	};
 	var option={
 		"refresh":"松开刷新 Loose to Refresh",
-		"mtfp2p":"https://p.yot.pw",
-		"mtfp2psso":"https://p.u2u.ren",
+		"mtfp2p":"https://p2p.yzhan.cyou",
+		"mtfp2psso":"https://p2p.yzhan.cyou",
 		"mtf":"https://mtf.yzhan.cyou",
 		"openWin":"http://cdn.dm126.com/share/mtfOpenWin.html?v=1.004",
 		"menu":{
 			"菜单<sup></sup>":"",
 			"DM126":"http://app.yzhan.cyou",
 			"导航":"http://hao.yzhan.cyou",
-			"动态<sup></sup>":"https://p.yot.pw",
-			"我<sup></sup>":"https://p.yot.pw/?mtfa=me"
+			"动态<sup></sup>":"https://p2p.yzhan.cyou",
+			"我<sup></sup>":"https://p2p.yzhan.cyou/?mtfa=me"
 		},
 		"color":"#fb4a6f",
 		"cdn":"//cdn.dm126.com/share",

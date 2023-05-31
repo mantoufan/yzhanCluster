@@ -2284,7 +2284,7 @@ function lp(){
 							var ta={};
 							ta[lang[40]]='info';
 							ta[lang[41]]='<div class="pure-game-support"></div>';
-							ta[lang[42]]='https://p.yot.pw/201712020202365183';
+							ta[lang[42]]='https://p2p.yzhan.cyou/201712020202365183';
 							ta[lang[100]]='mtf';
 							
 							var tf=function(o,s){
@@ -2307,8 +2307,8 @@ function lp(){
 									if(tc==='mtf'){
 										//var dt=document.title.split('互点链接'),dh='';
 										//if(dt.length>1){dh=dt[0];}
-										//u='https://p.yot.pw/'+dh;
-										u='https://p.yot.pw/';
+										//u='https://p2p.yzhan.cyou/'+dh;
+										u='https://p2p.yzhan.cyou/';
 									}else{
 										u=tc;
 									}
@@ -2395,7 +2395,7 @@ function tipLJ(){
 	$('body').css('margin-bottom',h);
 	$.getScript(domain_cdn+'mtfOutLink.js',function(){
 		mtfOutLink.o=$('#footer2')[0].firstChild;mtfOutLink.s=[3000,1];
-		$.getScript('https://p.yot.pw/api/file/list/?k=index&order=i%20IN(100131,100133,100134,100135,100136,100137,100138,100252,100315,100749)%20DESC,t0%20DESC&sub=1&page=1_3&pi=1&jsonp=mtfOutLink.d');
+		$.getScript('https://p2p.yzhan.cyou/api/file/list/?k=index&order=i%20IN(100131,100133,100134,100135,100136,100137,100138,100252,100315,100749)%20DESC,t0%20DESC&sub=1&page=1_3&pi=1&jsonp=mtfOutLink.d');
 	});
 	*/
 	mtfLJ.tip({'all':'请下 <a href="../app/"><b>APP</b></a> 或 浏览器搜索 <b>dm126</b> 使用</a>','align':'right'});

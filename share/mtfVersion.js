@@ -4,7 +4,7 @@ var mtfVersion={
 		"www.zzyju.com":1,
 		"www.qcygf.com":1,
 		"3dm.gs":1,
-		"p.yot.pw":1
+		"p2p.yzhan.cyou":1
 	}
 };
 if('undefined' !== typeof mtfVersion.option[window.location.host]){
