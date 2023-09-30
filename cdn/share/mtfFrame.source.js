@@ -15,17 +15,15 @@ var mtfFrame=(function (){
 		"mtfp2p":"https://p2p.yzhan.cyou",
 		"mtfp2psso":"https://p2p.yzhan.cyou",
 		"mtf":"https://mtf.yzhan.cyou",
-		"openWin":"http://cdn.dm126.com/share/mtfOpenWin.html?v=1.004",
+		"openWin":"http://cdn.yzhan.cyou/share/mtfOpenWin.html?v=1.004",
 		"menu":{
 			"菜单<sup></sup>":"",
-			"DM126":"http://app.yzhan.cyou",
-			"导航":"http://hao.yzhan.cyou",
 			"动态<sup></sup>":"https://p2p.yzhan.cyou",
 			"我<sup></sup>":"https://p2p.yzhan.cyou/?mtfa=me"
 		},
 		"color":"#fb4a6f",
-		"cdn":"//cdn.dm126.com/share",
-		"web":"//app.yzhan.cyou"
+		"cdn":"//cdn.yzhan.cyou/share",
+		"web":"//share.yzhan.cyou"
 	};
 	var set=function(o){
 		for(var i in o){
