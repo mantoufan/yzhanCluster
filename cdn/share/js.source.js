@@ -1855,7 +1855,7 @@ function lp(){
 										rT=a[0];
 										p.html(a[1]);
 										if(j.url_shares){
-											var ar=j.url_shares,sq=[],a,d,s,ac,afc,o,b,htdata='https://api.os120.com/url/go?out_type=redirect&des=sharehelper#',ua=navigator.userAgent.toLowerCase();
+											var ar=j.url_shares,sq=[],a,d,s,ac,afc,o,b,htdata='https://api.yzhan.cyou/url/go?out_type=redirect&des=sharehelper#',ua=navigator.userAgent.toLowerCase();
 											afc=function(src,d){
 												var arr=[],jj=0,k=0;
 												for(var i in ar){
